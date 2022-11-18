@@ -1,0 +1,2 @@
+from .ControladorAdmonCandidatos import ControladorAdmonCandidatos
+
